@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarvesh-Panhekar
-- 👀 I’m interested in Android Development / Graphic Designing
-- 🌱 I’m currently a CSE Student
+- 👀 I’m interested in Android Development / Graphic Designing / UI UX Designing 
+- 🌱 I’m currently working as UI UX Designer
 - 📫 Gmail: sarvesh.panhekar@gmail.com
 
 <!---
